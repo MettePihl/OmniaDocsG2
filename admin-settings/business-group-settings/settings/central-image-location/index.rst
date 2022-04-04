@@ -13,6 +13,7 @@ You can also go to the Central Image Location from here, to handle the images th
 
 Add a new Central Image Location
 **********************************
+Create an Image Library in SharePoint and then add it as a new Central Image Location.
 To add a new Central Image Location, click the plus:
 
 .. image:: central-image-locations-click-plus-new2.png
