@@ -23,13 +23,13 @@ When you click the pen for a registration, the following can be edited:
 
 .. image:: editing-icons-edit.png
 
-You can add or edit Phone number, decrese or increase number of people associated with this registration, and add a Comment.
+You can add or edit Phone number, decrease or increase number of people associated with this registration and add a Comment.
 
 Don't forget to save when you're done.
 
 The same actions are available for the Standby List. In this case you use the people icon to move the registration to the Participant list.
 
-**Note!** When a participant is removed from the Participant list, the first colleage from the Standby list is automatically moved to the Participant list, if the associated number of people does not exceed the limit.
+**Note!** When a participant is removed from the Participant list, the first colleague from the Standby list is automatically moved to the Participant list, if the associated number of people does not exceed the limit.
 
 Event Management connected to a calendar
 -----------------------------------------
