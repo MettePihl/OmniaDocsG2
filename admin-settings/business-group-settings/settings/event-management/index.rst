@@ -29,8 +29,8 @@ Here's the settings for Event Management:
 Use them this way:
 
 + **Calendar**: Select the calendar for Event Management in this Page Collection, if your Event Management setup should be connected to a calendar.
-+ **Description**: Select the property to be used for the description of the event, shown in the calenders.
-+ **Location** Select the property to be used for the location of the event, shown in the calenders.
++ **Description**: Select the property to be used for the description of the event, shown in the calendars.
++ **Location** Select the property to be used for the location of the event, shown in the calendars.
 
 Don't forget to save when you're done.
 
